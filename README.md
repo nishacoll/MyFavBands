@@ -1,5 +1,7 @@
 MyBands
 
+![Image of MyBands APp](main.png)
+
 Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg (or.png)
 
 1) Create new Master/Detail Universal Project (No CoreData)
