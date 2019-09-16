@@ -18,9 +18,9 @@ Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg
    
 4)Create New Group named Images and add the images you downloaded during preparation
 
-5)Follow Instructions in Comments on MasterViewController.swift.txt
+5)Follow Instructions in Comments on [MasterViewController.swift](https://raw.githubusercontent.com/ioscourse/MyFavBands/master/MyFavBands/MasterViewController.swift)
 
-6)Follow Instructions in Comments on DetailViewController.swift.txt
+6)Follow Instructions in Comments on [DetailViewController.swift](https://raw.githubusercontent.com/ioscourse/MyFavBands/master/MyFavBands/DetailViewController.swift)
 
 7)Compile & Run (Command + R)
 
